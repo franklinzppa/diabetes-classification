@@ -1,5 +1,7 @@
 # diabetes-classification
 
+![diabetes](files/img/header.jpeg)
+
 Esse projeto de **classficação** tem como objetivo prever o diagnóstico de diabetes dado um conjunto de informações de saúde de um paciente. Utilizei o **CRISP-DM** como metodologia de trabalho durante a execução do projeto. 
 
 Após uma exploração do contexto do projeto, criei uma questão de negócio a ser resolvida: melhorar as métricas de classificação a fim de reduzir os custos por pacientes, com relação a um modelo de previsão simples (que também foi construído no projeto).
