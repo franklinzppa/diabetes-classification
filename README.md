@@ -1,6 +1,6 @@
 # diabetes-classification
 
-![diabetes](files/img/header.jpeg)
+![diabetes](img/header.jpeg)
 
 Esse projeto de **classficação** tem como objetivo prever o diagnóstico de diabetes dado um conjunto de informações de saúde de um paciente. Utilizei o **CRISP-DM** como metodologia de trabalho durante a execução do projeto. 
 
