@@ -5,7 +5,7 @@
   
 </div>
 
-Esse projeto de **classificação** tem como objetivo prever o diagnóstico de diabetes a partir um conjunto de informações de saúde de um paciente. Utilizei o **CRISP-DM** como metodologia de trabalho durante a execução do projeto. 
+Esse projeto de **classificação** tem como objetivo prever o diagnóstico de diabetes a partir um conjunto de informações de saúde de um paciente. Utilizei o **CRISP-DM** como metodologia de trabalho durante a execução do projeto. Ao final, coloquei o modelo em produção.
 
 ## Entendimento do problema e questão de negócio
 
@@ -55,3 +55,7 @@ Acurácia   | Precisão | **Recall** | F1
 74.0%      | 60.0%    | **77.8%**  | 67.7%
 
 </div>
+
+## Deploy
+
+* O modelo (pipeline de tratamento + SVM) foi colocado em produção utilizando o **HugginFace** e **Gradio** e pode ser acessado nesse [link](https://huggingface.co/spaces/frank-ferreira/diabetes-clf-deploy).
